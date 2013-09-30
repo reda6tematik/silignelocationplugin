@@ -2,6 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="com.custom.plugin.CustomSiligneLocationPlugin" version="1.0">
 	<name>CustomSiligneLocationPlugin</name>
 	<description>Plugin de localisation en background pour Siligne iOS.</description>
+	<license>MIT</license>
 	<platform name="ios">
 		<config-file target="*-Info.plist" parent="UIBackgroundModes">
 			<array>

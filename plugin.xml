@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="com.custom.plugin.CustomSiligneLocationPlugin" version="1.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="com.custom.plugin.silignelocationplugin" version="1.0">
 	<name>CustomSiligneLocationPlugin</name>
 	<description>Plugin de localisation en background pour Siligne iOS.</description>
 	<license>MIT</license>
